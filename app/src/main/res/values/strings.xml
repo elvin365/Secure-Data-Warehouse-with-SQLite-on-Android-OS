@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="enter_password">Enter password</string>
+    <string name="sup_heek">SUP heek</string>
+    <string name="add">Add</string>
+    <string name="name_of_resource">Name of resource</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="notes">Notes</string>
+    <string name="ok">ok</string>
+    <string name="delete">DELETE</string>
+    <string name="enter_resource_name_to_delete">Enter resource name to delete</string>
+    <string name="delete_this">Delete this</string>
+    <string name="button">Button</string>
+    <string name="look_and_change">Look and change</string>
+    <string name="enter_resource_name_to_change_or_to_look_up">Enter resource name to change or to look up</string>
+    <string name="enter_resource_name">Enter resource name</string>
+    <string name="enter_new_key_logon_password">Enter new key-logon password</string>
+    <string name="accept">Accept</string>
+    <string name="new_key_logon_password">New key-logon password</string>
+    <string name="export">export</string>
+    <string name="choose_an_option">Choose an option</string>
+</resources>
